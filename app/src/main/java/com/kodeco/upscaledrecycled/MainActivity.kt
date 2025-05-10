@@ -112,6 +112,7 @@ fun HomeScreen(navController: NavController) {
 }
 
 @Composable
+//About Us
 fun AboutUsScreen(navController: NavController) {
     Column(
         modifier = Modifier
