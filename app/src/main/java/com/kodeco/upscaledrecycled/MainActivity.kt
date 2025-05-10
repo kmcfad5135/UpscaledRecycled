@@ -53,6 +53,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 @Composable
+//Home Screen
 fun HomeScreen(navController: NavController) {
     Column(
         modifier = Modifier
@@ -152,6 +153,7 @@ fun AboutUsScreen(navController: NavController) {
     }
 }
 @Composable
+//Contact Us
 fun ContactScreen(navController: NavController) {
     Column(
         modifier = Modifier
